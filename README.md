@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there! Welcome to my GitHub profile. <br/> </h2>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic)](https://github.com/HanaZubovic/github-readme-stats)--!>
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic)](https://github.com/HanaZubovic/github-## readme-stats)
 
 
 
