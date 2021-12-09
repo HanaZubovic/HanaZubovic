@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center"> Check me out on other platforms 📫 </h3>
+<h3 align="center"> Check me out on other platforms :bookmark_tabs: </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/hana-zubovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
