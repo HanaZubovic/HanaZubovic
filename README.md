@@ -4,8 +4,7 @@
  
 </p>
 
-<!-- Add by the end of March [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
- !-->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
 
 
