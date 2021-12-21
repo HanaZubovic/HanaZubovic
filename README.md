@@ -36,16 +36,15 @@
 
 <h3 align="center"> Check Me Out: :bookmark_tabs: </h3>
 <br />
-<p align="center  width="100%">
-
-<!--<img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> -->
-
- [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-zubovic/)
- [![Github](https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HanaZubovic)
- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](hanazubby@gmail.com)
- [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hanazubby)
-
+<p align="center" width="100%">
+  <a href="https://www.linkedin.com/in/hana-zubovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/HanaZubovic"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="hanazubby@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.kaggle.com/hanazubby"><img src="https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
+
+
+
 
 
 
