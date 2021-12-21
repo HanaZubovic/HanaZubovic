@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! Welcome to my GitHub profile. <img src="https://media.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif" width="120" height="100"/> <br/> </h2>
+<h2 align="center"> Hi there! Welcome to my GitHub profile. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="120" height="90"/> <br/> </h2>
 
 <p align="center">
  
