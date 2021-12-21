@@ -1,13 +1,18 @@
+<!--Header Code with alignment + images  -->
 <h2 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there! Welcome to my GitHub profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="120" height="90"/> <br/></h2>
 
-<p align="center">
- 
+<!--Paragraph describing me.  -->
+<!-- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
 
+<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+ -->
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+<!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
+### Languages and Tools:
+<p>
+<!--   <img width="55%" align="right" alt="Hana's github stats" src="https://github-readme-stats.vercel.app/api?username=HanaZubovic&show_icons=true&hide_border=true"/>
+ -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -28,12 +33,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
-  
+ </p>
 <!-- Top Languages Used based on 100% usage -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
-
+<!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
 <h3 align="center"> Check Me Out: :bookmark_tabs: </h3>
 <br />
 <p align="center" width="100%">
