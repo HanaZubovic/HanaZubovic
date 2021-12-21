@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
-<h3 align="center"> Check Me Out: :bookmark_tabs: </h3>
+<h3 align="center"> Find Me Elsewhere: :bookmark_tabs: </h3>
 <br />
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/hana-zubovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
