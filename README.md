@@ -27,10 +27,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <br />
- </p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <br />
+</p>
 <!-- Top Languages Used based on 100% usage -->
---------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
