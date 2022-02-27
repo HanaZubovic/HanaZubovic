@@ -30,10 +30,12 @@
   <br />
  </p>
 <!-- Top Languages Used based on 100% usage -->
+--------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
+---------
 <h3 align="center"> Find Me Elsewhere: :bookmark_tabs: </h3>
 <br />
 <p align="center" width="100%">
