@@ -11,8 +11,7 @@
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 ### Languages and Tools:
 <p>
-<!--   <img width="55%" align="right" alt="Hana's github stats" src="https://github-readme-stats.vercel.app/api?username=HanaZubovic&show_icons=true&hide_border=true"/>
- -->
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
