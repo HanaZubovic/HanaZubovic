@@ -34,7 +34,7 @@
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
 
-<h2 align="center"> Find Me Elsewhere: :bookmark_tabs: </h2>
+<h2 align="center"> Connect with me: :bookmark_tabs: </h2>
 <br/>
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/hana-zubovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
