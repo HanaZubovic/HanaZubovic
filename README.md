@@ -1,19 +1,19 @@
 <!--Header Code with alignment + images  -->
-<h1 align="center"> Hi there,  I'm Hana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <br/></h1>
+
+<h2> Hello World,  I'm Hana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Paragraph describing me  -->
-<h2> 
-<!-- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
-</p>
-</h2>
- -->
+
+<!--- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+</p> -->
+
+### When I'm not working or coding, you can find me: 
  
-<h3> When I'm not working and coding, you can find me: </h3>
-- :tv: Watching The Witcher or Arcane...again 
-- :muscle: Learning how to do a muscle-up
-- :books: Reading Brandon Sanderson Novels (especially The StormLight Archive)
-- :fishing_pole_and_fish: Trying to catch my first Swordfish
-- :scream: Playing Dead Space on Impossible mode
+ - :tv: Re-Watching The Witcher or Arcane 
+ - :muscle: Learning how to Box
+ - :books: Reading [The StormLight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) by Brandon Sanderson (highly recommend for fantasy fans!)
+ - :computer: Editing videos or photoshopping memes
+ - :scream: Playing Dead Space on Impossible mode
 
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -43,7 +43,6 @@
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
 
 <h2 align="center"> Connect with me: :bookmark_tabs: </h2>
-<br/>
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/hana-zubovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/HanaZubovic"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
