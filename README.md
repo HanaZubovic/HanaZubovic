@@ -7,14 +7,13 @@
 </p>
 </h2>
  -->
-  
-When I'm not working and coding, you can find me:
+<h3> When I'm not working and coding, you can find me:
 - :tv: Watching The Witcher or Arcane...again 
 - :muscle: Learning how to do a muscle-up
 - :books: Reading Brandon Sanderson Novels (especially The StormLight Archive)
 - :fishing_pole_and_fish: Trying to catch my first Swordfish
 - :scream: Playing Dead Space on Impossible mode
-
+ </h3>
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 ### Languages and Tools:
