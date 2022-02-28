@@ -2,11 +2,17 @@
 <h1 align="center"> Hi there,  I'm Hana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <br/></h1>
 
 <!--Paragraph describing me  -->
+<h2> 
 <!-- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
+</h2>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
- -->
+<p> When I'm not working and coding, you can find me:
+- :tv: Watching The Witcher or Arcane...again 
+- :muscle: Learning how to do a muscle-up
+- :books: Reading Brandon Sanderson Novels (especially The StormLight Archive)
+- :fishing_pole_and_fish: Trying to catch my first Swordfish
+</p>
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 ### Languages and Tools:
