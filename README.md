@@ -4,9 +4,25 @@
 
 <!--Paragraph describing me  -->
 
-<!--- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in  :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<!--- <p align="center">I have a strong background in media and marketing. Currently, I freelance as a digital marketer for content creators looking to utlilize data strategies to grow their communities.   Currently a student attending the University of p (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in  :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p> -->
 
+#### When I'm not working, you can find me: 
+ 
+ - :tv: Re-Watching The Witcher or Arcane 
+ - :muscle: Learning how to Box
+ - :books: Reading [The StormLight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) by Brandon Sanderson (highly recommend for fantasy fans!)
+ - :computer: Editing videos or photoshopping memes
+ - :scream: Playing Dead Space on Impossible mode
+
+
+
+<!---<h1> Projects:</h1>
+
+- Data Analysis
+  - 
+- 
+-->
 
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -33,13 +49,6 @@
 <!-- Top Languages Used based on 100% usage -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
 
-#### When I'm not working or coding, you can find me: 
- 
- - :tv: Re-Watching The Witcher or Arcane 
- - :muscle: Learning how to Box
- - :books: Reading [The StormLight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) by Brandon Sanderson (highly recommend for fantasy fans!)
- - :computer: Editing videos or photoshopping memes
- - :scream: Playing Dead Space on Impossible mode
 
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
@@ -52,10 +61,3 @@
   <a href="hanazubby@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://www.kaggle.com/hanazubby"><img src="https://img.shields.io/badge/-Kaggle-20beff?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
-
-
-
-
-
-
-
