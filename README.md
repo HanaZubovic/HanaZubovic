@@ -4,16 +4,9 @@
 
 <!--Paragraph describing me  -->
 
-<!--- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<!--- <p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in  :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p> -->
 
-#### When I'm not working or coding, you can find me: 
- 
- - :tv: Re-Watching The Witcher or Arcane 
- - :muscle: Learning how to Box
- - :books: Reading [The StormLight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) by Brandon Sanderson (highly recommend for fantasy fans!)
- - :computer: Editing videos or photoshopping memes
- - :scream: Playing Dead Space on Impossible mode
 
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -39,6 +32,15 @@
 
 <!-- Top Languages Used based on 100% usage -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
+
+#### When I'm not working or coding, you can find me: 
+ 
+ - :tv: Re-Watching The Witcher or Arcane 
+ - :muscle: Learning how to Box
+ - :books: Reading [The StormLight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) by Brandon Sanderson (highly recommend for fantasy fans!)
+ - :computer: Editing videos or photoshopping memes
+ - :scream: Playing Dead Space on Impossible mode
+
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
 
