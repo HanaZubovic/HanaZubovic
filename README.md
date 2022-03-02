@@ -4,8 +4,15 @@
 
 <!--Paragraph describing me  -->
 
-<!--- <p align="center">I have a strong background in media and marketing. Currently, I freelance as a digital marketer for content creators looking to utlilize data strategies to grow their communities.   Currently a student attending the University of p (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in  :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
-</p> -->
+<p align="center">
+
+Currently, I'm a student attending a part time program at the University of Pennsylvania while freelancing as a digital marketer.
+I’m looking to enter the gaming and media industry to contribute to titles that delight fans from all over the world! :video_game: :clapper:
+
+I'm passionate about data science and analytics, especially areas  of machine learning like deep learning and reinforcement learning:man_technologist:. 
+
+
+</p>
 
 #### When I'm not working, you can find me: 
  
@@ -17,11 +24,13 @@
 
 
 
-<!---<h1> Projects:</h1>
+<!---<h1> Latest Projects:</h1>
 
 - Data Analysis
   - 
-- 
+- Machine Learning
+
+- Visualizations
 -->
 
 
