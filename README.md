@@ -4,14 +4,11 @@
 
 <!--Paragraph describing me  -->
 
-<p align="center">
-
+<p>
 Currently, I'm a student attending a part time program at the University of Pennsylvania while freelancing as a digital marketer.
 I’m looking to enter the gaming and media industry to contribute to titles that delight fans from all over the world! :video_game: :clapper:
 
-I'm passionate about data science and analytics, especially areas  of machine learning like deep learning and reinforcement learning:man_technologist:. 
-
-
+I'm passionate about data science and analytics, especially areas  of machine learning like deep learning and reinforcement learning
 </p>
 
 #### When I'm not working, you can find me: 
@@ -22,16 +19,22 @@ I'm passionate about data science and analytics, especially areas  of machine le
  - :computer: Editing videos or photoshopping memes
  - :scream: Playing Dead Space on Impossible mode
 
+<h2> Latest Projects: </h2>
+
+**Data Analytics** :bar_chart:
+- [Financial Records/ P&L Analysis](https://github.com/HanaZubovic/Python-Challenge-)
+- [Lab Mice Tumor Growth Analysis](https://github.com/HanaZubovic/Matplotlib-Challenge)
+- [Exploration of Climate Change Data](https://github.com/HanaZubovic/Data_Storage)
+
+**Machine Learning** :man_technologist:. 
+- [Loan Credit Risk Predictor](https://github.com/HanaZubovic/credit-risk-predictor)
+- [Finding Ideal Weather Conditions Around the World](https://github.com/HanaZubovic/python-api-challenge)
 
 
-<!---<h1> Latest Projects:</h1>
-
-- Data Analysis
-  - 
-- Machine Learning
-
-- Visualizations
--->
+**Visualizations** :chart_with_upwards_trend:
+- [Tracking Sessmeic Activity](https://github.com/HanaZubovic/leaflet-challenge)
+- [Finding Ideal Weather Conditions Around the World](https://github.com/HanaZubovic/python-api-challenge)
+- [Video Game Micro-Transaction](https://github.com/HanaZubovic/Pandas-Challenge)
 
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -52,7 +55,6 @@ I'm passionate about data science and analytics, especially areas  of machine le
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<br />
 </p>
 
 <!-- Top Languages Used based on 100% usage -->
