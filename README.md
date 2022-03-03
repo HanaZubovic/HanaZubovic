@@ -19,22 +19,31 @@ I'm passionate about data science and analytics, especially areas  of machine le
  - :computer: Editing videos or photoshopping memes
  - :scream: Playing Dead Space on Impossible mode
 
-<h2> Latest Projects: </h2>
+<h2> What I've Worked On:  </h2>
 
 **Data Analytics** :bar_chart:
 - [Financial Records/ P&L Analysis](https://github.com/HanaZubovic/Python-Challenge-)
 - [Lab Mice Tumor Growth Analysis](https://github.com/HanaZubovic/Matplotlib-Challenge)
 - [Exploration of Climate Change Data](https://github.com/HanaZubovic/Data_Storage)
+- [What Impact did Riot Games "Arcane" have on League of Legends?]
 
 **Machine Learning** :man_technologist:. 
 - [Loan Credit Risk Predictor](https://github.com/HanaZubovic/credit-risk-predictor)
-- [Finding Ideal Weather Conditions Around the World](https://github.com/HanaZubovic/python-api-challenge)
+- [Charity Successful Fundraising Predictor]
 
 
 **Visualizations** :chart_with_upwards_trend:
 - [Tracking Sessmeic Activity](https://github.com/HanaZubovic/leaflet-challenge)
-- [Finding Ideal Weather Conditions Around the World](https://github.com/HanaZubovic/python-api-challenge)
+- [Finding Ideal Vacation Weather Around the World](https://github.com/HanaZubovic/python-api-challenge)
 - [Video Game Micro-Transaction](https://github.com/HanaZubovic/Pandas-Challenge)
+- [Analysis of the Intersectionality Between Health and Wealth](https://github.com/conwaykylej/Are_you_Sick_of_It)
+
+**Dashboarding & Web Server Development** :sparkles:
+- [Bacterial Diversity Dashboard](https://github.com/HanaZubovic/Web_Viz)
+- [Mars Data Scraper and Dashboard](https://github.com/HanaZubovic/Mars_Web_Scraping)
+- [New York Citibike Tableau Dashboard]
+
+
 
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -59,8 +68,6 @@ I'm passionate about data science and analytics, especially areas  of machine le
 
 <!-- Top Languages Used based on 100% usage -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanaZubovic&layout=compact)](https://github.com/HanaZubovic/github-readme-stats)
-
-
 
 <!--Link to Socials and Contact: You can use https://shields.io/ to generate your own badges.  -->
 
