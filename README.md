@@ -1,14 +1,14 @@
-<!--Header Code with alignment + images  -->
+<!--Header Code with alignment + images  --> 
 
 <h2> Hello World,  I'm Hana! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--Paragraph describing me  -->
-
 <p>
-Currently, I'm a student attending a part time program at the University of Pennsylvania while freelancing as a digital marketer.
-I’m looking to enter the gaming and media industry to contribute to titles that delight fans from all over the world! :video_game: :clapper:
-
-I'm passionate about building communities by leveraging data science and insights, especially areas
+Currently, I'm a student attending a part time program at the University of Pennsylvania while freelancing and working part-time.<br/>
+I’m looking to enter the entertainment industry to contribute to IPs that delight fans from all over the world! :video_game: :clapper:
+<br/>
+ 
+I'm passionate about working together with teammates to leverage data to ensure growth online, while fostering strong relationships with the community.
 #### When I'm not working, you can find me: 
  
  - :tv: Re-Watching The Witcher or Arcane 
@@ -28,6 +28,7 @@ I'm passionate about building communities by leveraging data science and insight
 **Machine Learning** :man_technologist:. 
 - [Loan Credit Risk Predictor](https://github.com/HanaZubovic/credit-risk-predictor)
 - [Successful Fundraising for Charity Predictor]
+- [League of Legends Game Predictor]
 
 **Visualizations** :chart_with_upwards_trend:
 - [Tracking Seismic Activity](https://github.com/HanaZubovic/leaflet-challenge)
@@ -41,7 +42,7 @@ I'm passionate about building communities by leveraging data science and insight
 - [New York Citibike Tableau Dashboard]
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
-### Languages and Tools:
+### Languages and Tools:🛠️
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
