@@ -20,6 +20,7 @@ I'm passionate about working together with teammates to leverage data to ensure 
 <h2> What I've Worked On:  </h2>
 
 **Data Analytics** :bar_chart:
+- [Summarizing Election and Wall Street Data in Python](https://github.com/HanaZubovic/financial-and-election-data-python-)
 - [Financial Records/ P&L Analysis](https://github.com/HanaZubovic/Python-Challenge-)
 - [Lab Mice Tumor Growth Analysis](https://github.com/HanaZubovic/Matplotlib-Challenge)
 - [Exploration of Climate Change Data](https://github.com/HanaZubovic/Data_Storage)
