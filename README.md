@@ -29,11 +29,11 @@ I'm passionate about data science and analytics, especially areas  of machine le
 
 **Machine Learning** :man_technologist:. 
 - [Loan Credit Risk Predictor](https://github.com/HanaZubovic/credit-risk-predictor)
-- [Charity Successful Fundraising Predictor]
+- [Successful Fundraising for Charity Predictor]
 
 
 **Visualizations** :chart_with_upwards_trend:
-- [Tracking Sessmeic Activity](https://github.com/HanaZubovic/leaflet-challenge)
+- [Tracking Seismic Activity](https://github.com/HanaZubovic/leaflet-challenge)
 - [Finding Ideal Vacation Weather Around the World](https://github.com/HanaZubovic/python-api-challenge)
 - [Video Game Micro-Transaction](https://github.com/HanaZubovic/Pandas-Challenge)
 - [Analysis of the Intersectionality Between Health and Wealth](https://github.com/conwaykylej/Are_you_Sick_of_It)
