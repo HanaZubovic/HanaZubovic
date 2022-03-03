@@ -8,9 +8,7 @@
 Currently, I'm a student attending a part time program at the University of Pennsylvania while freelancing as a digital marketer.
 I’m looking to enter the gaming and media industry to contribute to titles that delight fans from all over the world! :video_game: :clapper:
 
-I'm passionate about data science and analytics, especially areas  of machine learning like deep learning and reinforcement learning
-</p>
-
+I'm passionate about building communities by leveraging data science and insights, especially areas
 #### When I'm not working, you can find me: 
  
  - :tv: Re-Watching The Witcher or Arcane 
@@ -31,7 +29,6 @@ I'm passionate about data science and analytics, especially areas  of machine le
 - [Loan Credit Risk Predictor](https://github.com/HanaZubovic/credit-risk-predictor)
 - [Successful Fundraising for Charity Predictor]
 
-
 **Visualizations** :chart_with_upwards_trend:
 - [Tracking Seismic Activity](https://github.com/HanaZubovic/leaflet-challenge)
 - [Finding Ideal Vacation Weather Around the World](https://github.com/HanaZubovic/python-api-challenge)
@@ -42,9 +39,6 @@ I'm passionate about data science and analytics, especially areas  of machine le
 - [Bacterial Diversity Dashboard](https://github.com/HanaZubovic/Web_Viz)
 - [Mars Data Scraper and Dashboard](https://github.com/HanaZubovic/Mars_Web_Scraping)
 - [New York Citibike Tableau Dashboard]
-
-
-
 
 <!-- You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 ### Languages and Tools:
