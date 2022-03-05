@@ -38,7 +38,7 @@ I'm passionate about working together with teammates to leverage data to ensure 
 
 **Dashboarding & Web Server Development** :sparkles:
 - [Tracking Seismic Activity Dashboard](https://github.com/HanaZubovic/tracking-seismic-activity-dashboard)
-- [Bacterial Diversity Dashboard](https://github.com/HanaZubovic/Web_Viz)
+- [Bacterial Diversity Dashboard](https://github.com/HanaZubovic/bacterial-diversity-dashboard)
 - [Mars Data Scraper and Dashboard](https://github.com/HanaZubovic/Mars_Web_Scraping)
 - [New York Citibike Tableau Dashboard]
 
