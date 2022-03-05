@@ -31,12 +31,13 @@ I'm passionate about working together with teammates to leverage data to ensure 
 - [League of Legends Game Predictor]
 
 **Visualizations** :chart_with_upwards_trend:
-- [Tracking Seismic Activity](https://github.com/HanaZubovic/leaflet-challenge)
+
 - [Finding Ideal Vacation Weather Around the World](https://github.com/HanaZubovic/python-api-challenge)
 - [Video Game Micro-Transaction](https://github.com/HanaZubovic/Pandas-Challenge)
 - [Analysis of the Intersectionality Between Health and Wealth](https://github.com/conwaykylej/Are_you_Sick_of_It)
 
 **Dashboarding & Web Server Development** :sparkles:
+- [Tracking Seismic Activity Dashboard](https://github.com/HanaZubovic/tracking-seismic-activity-dashboard)
 - [Bacterial Diversity Dashboard](https://github.com/HanaZubovic/Web_Viz)
 - [Mars Data Scraper and Dashboard](https://github.com/HanaZubovic/Mars_Web_Scraping)
 - [New York Citibike Tableau Dashboard]
