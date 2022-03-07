@@ -23,6 +23,7 @@ I'm passionate about working together with teammates to leverage data to ensure 
 - [Summarizing Election and Wall Street Data in Python](https://github.com/HanaZubovic/financial-and-election-data-python-)
 - [Lab Mice Tumor Growth Analysis](https://github.com/HanaZubovic/lab-mice-tumor-growth-analysis)
 - [Exploration of Weather Station Data using SQLite and Flask](https://github.com/HanaZubovic/Data_Storage)
+- [Microtransactions Analysis in Video Games](https://github.com/HanaZubovic/Pandas-Challenge)
 - [What Impact did Riot Games "Arcane" have on League of Legends?]
 
 **Machine Learning** :man_technologist:. 
